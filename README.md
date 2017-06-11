@@ -1,2 +1,2 @@
 # LinearRotation
-A calculator for the rotation of objects rotating along a linear path
+A calculator for the rotation of objects along a linear path
